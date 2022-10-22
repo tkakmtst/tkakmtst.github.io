@@ -1,12 +1,19 @@
 ---
-title: My page
+title: tkakmtst.github.io
 layout: default
 ---
 
-# {{ page.title }}
+# Takaaki Matsushita
 
-Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/). Plain text format allows you to focus on your **content**.
 
-<!--
-You can use HTML elements in Markdown, such as the comment element, and they won't be affected by a markdown parser. However, if you create an HTML element in your markdown file, you cannot use markdown syntax within that element's contents.
--->
+
+## Accounts
+
+- [github](https://github.com/tkakmtst)
+- [Twitter](https://twitter.com/tkakmtst)
+- [Zenn](https://zenn.dev/tkakmtst)
+
+## Qualifications
+
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b26d20c6-f2cb-415d-a073-a1930275f7de)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/6be1df87-bd85-4475-bd41-a895b8fa9d6d)
