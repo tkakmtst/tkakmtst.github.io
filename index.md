@@ -1,6 +1,7 @@
 ---
-title: Takaaki Matsushita
 layout: default
+title: Takaaki Matsushita
+description: Software Engineer
 ---
 
 ## Abount
