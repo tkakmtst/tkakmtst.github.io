@@ -1,11 +1,18 @@
 ---
-title: tkakmtst.github.io
+title: Takaaki Matsushita
 layout: default
 ---
 
-# Takaaki Matsushita
+## Abount
 
+## History
 
+| Period          | Work Experience                                                                                                     | Role                   |
+| --------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| 2013.4 - 2017.3 | Department of Electric and Electronic Engineering, Faculty of Science and Engineering, Kinki University 　          | Bachelor's Student     |
+| 2017.4 - 2019.3 | Major in Electronic Engineering, Graduate School of Science and Engineering Master of Engineering, Kinki University | Master's Student       |
+| 2018.3 - 2019.2 | Jonline Inc.                                                                                                        | Web Coder (Internship) |
+| 2019.3 -        | OPEN8 Inc.                                                                                                          | Software Engineer      |
 
 ## Accounts
 
