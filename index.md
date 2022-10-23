@@ -4,16 +4,38 @@ title: Takaaki Matsushita
 description: Software Engineer
 ---
 
-## Abount
+## About
+
+Comming soon...
+
+## Skills
+
+- Ruby
+- Ruby on Rails
+- MySQL
+- OpenAPI
+- HTML/CSS
+- Docker
+- Ansible
+- CI
+  - CircleCI
+- AWS
+  - VPC, EC2, ECS, ALB, RDS, EFS, Route53, Lambda, Cloudwatch, EventBridge, CloudFormation...
+- Azure
+  - Azure Blob Storage
+- Oracle Cloud Infrastructure
+  - Compute, Load Balancer, NFS
+- CDN
+  - Akamai
 
 ## History
 
-| Period          | Work Experience                                                                                                     | Role                   |
-| --------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| 2013.4 - 2017.3 | Department of Electric and Electronic Engineering, Faculty of Science and Engineering, Kinki University 　          | Bachelor's Student     |
-| 2017.4 - 2019.3 | Major in Electronic Engineering, Graduate School of Science and Engineering Master of Engineering, Kinki University | Master's Student       |
-| 2018.3 - 2019.2 | Jonline Inc.                                                                                                        | Web Coder (Internship) |
-| 2019.3 -        | OPEN8 Inc.                                                                                                          | Software Engineer      |
+| Period          | Experience                                                                                                           | Role                   |
+| --------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| 2013.4 - 2017.3 | Department of Electric and Electronic Engineering, Faculty of Science and Engineering, Kindai University 　          | Bachelor's Student     |
+| 2017.4 - 2019.3 | Major in Electronic Engineering, Graduate School of Science and Engineering Master of Engineering, Kindai University | Master's Student       |
+| 2018.3 - 2019.2 | Jonline Inc.                                                                                                         | Web Coder (Internship) |
+| 2019.3 -        | OPEN8 Inc.                                                                                                           | Software Engineer      |
 
 ## Accounts
 
