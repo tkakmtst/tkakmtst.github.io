@@ -20,10 +20,6 @@ description: Software Engineer
 | 2018.3 - 2019.2 | Jonline Inc.                                                                                                         | Web Coder (Internship) |
 | 2019.3 -        | OPEN8 Inc.                                                                                                           | Software Engineer      |
 
-## Work Experience
-
-Comming soon...
-
 ## Qualifications
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b26d20c6-f2cb-415d-a073-a1930275f7de)
