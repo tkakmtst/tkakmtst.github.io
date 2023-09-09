@@ -4,12 +4,9 @@ title: Takaaki Matsushita
 description: Software Engineer
 ---
 
-## About
+## 名前
 
-- Name
-  - 松下 敬昭 / Takaaki Matsushita
-- Contact
-  - tkakmtst@gmail.com
+松下 敬昭 / Takaaki Matsushita
 
 ## 経歴
 
